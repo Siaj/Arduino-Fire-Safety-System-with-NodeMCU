@@ -8,12 +8,12 @@ SoftwareSerial s(D6,D5); //RX, TX
 
 
 
-#define USERNAME "Sibdow"
-#define DEVICE_ID "nodeMCU"
-#define DEVICE_CREDENTIAL "siaj_IoT"
+#define USERNAME "your_username"
+#define DEVICE_ID "thinger_device_id"
+#define DEVICE_CREDENTIAL "thinger_device_credentials"
 
-#define SSID "Siaj"
-#define SSID_PASSWORD "gllp9790"
+#define SSID "your_wifi_ssid"
+#define SSID_PASSWORD "your_wifi_password"
 
 
 float t = 0;
