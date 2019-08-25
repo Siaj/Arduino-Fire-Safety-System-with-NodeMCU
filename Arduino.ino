@@ -33,7 +33,7 @@ MQ2 mq2(GAS_SENSOR);
 
 DHT dht (DHTPIN, DHTTYPE); //Initialize DHT sensor.
 
-// Set the LCD address to 0x27 for a 16 chars and 2 line display
+// Set the LCD address to 0x27 for a 20 chars and 4 line display
 LiquidCrystal_I2C lcd(0x27, 20, 4);
 
 void setup() {
