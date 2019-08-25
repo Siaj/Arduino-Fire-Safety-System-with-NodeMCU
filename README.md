@@ -4,7 +4,7 @@
 
 
 
-![Schematics](images/HomeFireSafety_schem.jpg "Breadboard Design of Hardware Components")
+![Schematics](images/HomeFireSafety_bb.jpg "Breadboard Design of Hardware Components")
 
 
 
